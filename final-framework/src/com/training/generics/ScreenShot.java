@@ -29,7 +29,7 @@ public class ScreenShot {
 	
 	public void captureScreenShot(){
 		
-		String path = "C:\\Users\\Naveen\\Desktop\\screenshots\\";
+		String path = "C:\\Users\\AddepalliYamini\\Pictures\\RetailScreenshots";
 		String fileName ="";
 
 		GregorianCalendar calendar = new GregorianCalendar(); 

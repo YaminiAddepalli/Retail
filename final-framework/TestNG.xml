@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testSuite">
+	<test name="sampleTest">
+		<classes>
+			<class name="com.training.sanity.tests.HomePageTest" />
+			<class name="com.training.sanity.tests.RetailRegisterTest" />
+			<class name="com.training.sanity.tests.RetailLoginTest" />
+		</classes>
+	</test>
+</suite>
